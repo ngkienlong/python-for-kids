@@ -2,7 +2,7 @@
 
 > A Python course for students transitioning from Scratch.
 > Focus: Logical thinking, Math, Turtle Graphics.
-> Tool: Thonny IDE | Python 3
+> Tool: Thonny IDE or Python Lab | Python 3
 
 > Author : Kiến Long | ngkienlong19@gmail.com
 
@@ -14,7 +14,7 @@
 
 | Lesson | Title | Key Concepts | Scratch Connection |
 |--------|-------|-------------|-------------------|
-| 1 | Meet Thonny & Python | Open Thonny, write `print()`, run a program, what is a "program" | Scratch: green flag → `print()` |
+| 1 | Meet Thonny/Python Lab & Python | Open Thonny, write `print()`, run a program, what is a "program" | Scratch: green flag → `print()` |
 | 2 | Numbers and Math | `+`, `-`, `*`, `/`, `//`, `%`, `print()` with math | Scratch: operators block |
 | 3 | Variables — Boxes with Names | Create variables, assign values, update values, naming rules | Scratch: "Make a Variable" |
 | 4 | Input — Talking to the Computer | `input()`, `int()`, `float()`, build a simple calculator | Scratch: "ask and wait" |
