@@ -5,6 +5,7 @@
 ---
 
 This lesson uses Python's `turtle` module, which requires a graphical window. Please open **Thonny** to run the examples. If you haven't installed Thonny yet, install it before continuing.
+
 ## 1. What is the Turtle?
 
 The **turtle** is a small arrow on the screen that you can control with code. When you move the turtle, it draws a line behind it — just like dragging a pen across paper.
