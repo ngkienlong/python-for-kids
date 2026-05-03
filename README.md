@@ -32,7 +32,7 @@ python-for-kids/
 
 ## How to Use
 
-1. Open Thonny IDE.
+1. Open Thonny IDE or Python Lab in Code.org.
 2. Follow the textbook for each lesson.
 3. Run the example code files.
 4. Do the homework exercises (Easy / Medium / Hard).
